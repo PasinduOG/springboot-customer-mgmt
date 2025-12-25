@@ -1,8 +1,8 @@
-package com.java.example.controller;
+package com.example.controller;
 
-import com.java.example.dto.ApiResponseDto;
-import com.java.example.model.Customer;
-import com.java.example.repository.CustomerRepository;
+import com.example.dto.ApiResponseDto;
+import com.example.model.Customer;
+import com.example.repository.CustomerRepository;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DataAccessException;
